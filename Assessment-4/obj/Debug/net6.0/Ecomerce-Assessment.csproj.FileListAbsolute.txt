@@ -1,0 +1,5 @@
+C:\Projects\c#\Assessment-4\Assessment-4\obj\Debug\net6.0\Ecomerce-Assessment.csproj.AssemblyReference.cache
+C:\Projects\c#\Assessment-4\Assessment-4\obj\Debug\net6.0\Ecomerce-Assessment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\Assessment-4\Assessment-4\obj\Debug\net6.0\Ecomerce-Assessment.AssemblyInfoInputs.cache
+C:\Projects\c#\Assessment-4\Assessment-4\obj\Debug\net6.0\Ecomerce-Assessment.AssemblyInfo.cs
+C:\Projects\c#\Assessment-4\Assessment-4\obj\Debug\net6.0\Ecomerce-Assessment.csproj.CoreCompileInputs.cache

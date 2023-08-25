@@ -1,0 +1,14 @@
+C:\Projects\c#\Assessment-4\EcommerceDomain\bin\Debug\net6.0\EcommerceDomain.deps.json
+C:\Projects\c#\Assessment-4\EcommerceDomain\bin\Debug\net6.0\EcommerceDomain.runtimeconfig.json
+C:\Projects\c#\Assessment-4\EcommerceDomain\bin\Debug\net6.0\EcommerceDomain.dll
+C:\Projects\c#\Assessment-4\EcommerceDomain\bin\Debug\net6.0\EcommerceDomain.pdb
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.csproj.AssemblyReference.cache
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.AssemblyInfoInputs.cache
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.AssemblyInfo.cs
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.csproj.CoreCompileInputs.cache
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.dll
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\refint\EcommerceDomain.dll
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.pdb
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\EcommerceDomain.genruntimeconfig.cache
+C:\Projects\c#\Assessment-4\EcommerceDomain\obj\Debug\net6.0\ref\EcommerceDomain.dll
